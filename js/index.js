@@ -1,3 +1,7 @@
 $(document).ready(function() {
-    $('#example').DataTable();
+    $('#donate').DataTable();
+} );
+
+$(document).ready(function() {
+    $('#campaign').DataTable();
 } );
